@@ -1,5 +1,7 @@
 # Chapter16LabSpecs
 
+Up to 10 bonus points by using a JavaFX GUI.
+
 ##Books
 Must contain at least: Title, Author, Genre, Year Published, Number of pages
 
